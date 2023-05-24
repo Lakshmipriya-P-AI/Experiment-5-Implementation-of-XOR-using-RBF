@@ -48,7 +48,7 @@ Step 7 : Test for the XOR patterns.
 
 
 ## PROGRAM:
-python
+### Python
 ```
 import numpy as np
 import matplotlib.pyplot as plt
@@ -72,7 +72,7 @@ plt.ylabel("X2")
 plt.title("Linearly Inseparable")
 plt.legend()
 ```
-# centers
+### centers
 ```
 mu1 = np.array([0, 1])
 mu2 = np.array([1, 0])
